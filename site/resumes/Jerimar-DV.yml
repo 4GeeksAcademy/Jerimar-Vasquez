@@ -1,0 +1,121 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    first_name: Jerimar
+    last_name: Vasquez
+    
+    motto: Software Engineer | Data & Backend Specialist
+    
+    focus: Data Engineering & Scalable Systems
+    
+    summary: |
+      Software Engineer with experience in software development, data architecture, 
+      and digital transformation across banking, energy, and public research sectors. 
+      Skilled in SQL (PL/SQL, MySQL, SQL Server, Sybase, T-SQL), ETL processes, 
+      data pipelines, API development, and microservices.
+
+      Strong background in Java, .NET Core, frontend development (HTML, CSS, JavaScript), 
+      REST API integration, Docker-based deployments, and secure architectures. 
+      Experienced leading international software projects and building modular scientific applications.
+
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    email: jeri.Vasqz@gmail.com
+    phone: "+34 663 460 810"
+    linkedin: https://www.linkedin.com/in/jerimarvasquez/
+    github: Jerimar-DV
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Data Architecture
+      - item: Digital Transformation
+      - item: Research & Innovation
+
+
+education:
+    - degree: Master’s Degree in Systems and Computing Engineering
+      university: University of Cádiz
+      time: 2025
+
+    - degree: Bachelor’s Degree in Systems Engineering
+      university: Universidad Santa María
+      time: 2013
+
+
+experiences:
+    - role: Research Technician
+      time: Sep 2024 – Sep 2025
+      company: University of Cádiz, Spain
+      details: |
+        - Designed and implemented the data architecture for OceanUCA, a modular scientific application.
+        - Developed microservices and integration pipelines in Python and Bash.
+        - Built Dockerized services integrating ERDDAP and THREDDS data servers.
+        - Improved data ingestion and quality across SQL Server and PostgreSQL.
+
+    - role: Project Engineer
+      time: May 2023 – Feb 2024
+      company: Dragados Offshore, Spain
+      details: |
+        - Led the implementation of ISO/IEC 27001:2022 Information Security Management System.
+        - Achieved certification in 10 months covering 300+ technological assets.
+        - Reduced audit findings by 40%.
+
+    - role: Software Engineer
+      time: Sep 2017 – Dec 2019
+      company: Bancaribe B.U, Venezuela
+      details: |
+        - Migrated ETL processes to Oracle Data Warehouse.
+        - Optimized SQL queries and database structures.
+        - Developed REST APIs and implemented SOA architecture.
+        - Led Credit Card Core migration during national monetary reconversion.
+
+    - role: Development Specialist
+      time: Jun 2015 – Sep 2017
+      company: Bancaribe B.U, Venezuela
+      details: |
+        - Automated 14+ ETL processes and consolidated banking data pipelines.
+        - Developed stored procedures and triggers in T-SQL.
+        - Improved .NET + Sybase core banking systems performance.
+
+    - role: Web Developer (Freelance)
+      time: May 2016 – Jul 2017
+      company: Icompsoluciones C.A
+      details: |
+        - Developed a full CRM system.
+        - Built backend modules with PHP + MySQL.
+        - Contributed to frontend using HTML5, CSS3, JavaScript.
+
+
+skills:
+    toolset:
+      - name: SQL Server / PostgreSQL / MySQL / Sybase
+        level: 95%
+
+      - name: Python / Java / .NET Core
+        level: 90%
+
+      - name: ETL Pipelines & Data Architecture
+        level: 95%
+
+      - name: REST APIs / Microservices / SOA
+        level: 90%
+
+      - name: Docker & CI/CD Basics
+        level: 85%
+
+      - name: HTML5 / CSS3 / JavaScript
+        level: 85%
+
+      - name: Power BI / Tableau
+        level: 75%
+
+      - name: Information Security (ISO 27001)
+        level: 85%
